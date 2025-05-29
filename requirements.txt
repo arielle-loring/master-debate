@@ -1,0 +1,7 @@
+# youtube-transcript-api
+# openai
+# streamlit
+youtube-transcript-api==0.4.1
+openai==0.27.8
+streamlit==1.25.0
+elevenlabs==0.0.7
